@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan(basePackages = { "com.techietester.app", "com.techietester.config"})
 public class App extends SpringBootServletInitializer {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { //prueba de edición de archivo
         SpringApplication.run(App.class, args);
     }
 }

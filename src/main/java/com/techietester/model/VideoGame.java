@@ -5,6 +5,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Date;
 import java.util.List;
 
+//una pequeña edición de clase
 @XmlRootElement
 public class VideoGame {
 
